@@ -9,3 +9,7 @@ it needs to be running to pull information from binance and bittrex (price and t
 It takes only a few seconds to gather up all the information and be ready to enter in a coin symbol, but i would recommend running at least 30 seconds prior.
 
 running it as simple as ```node pumpbot.js``` and waiting for the "Input coin:" prompt
+
+#  bot
+I'm not sticking to security right now.
+Actually, the services offered by nantrade are not in the repository here.
