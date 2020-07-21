@@ -4,7 +4,7 @@
   "description": "auto-buy a coin with some config settings",
   "main": "pumpBot.js",
   "dependencies": {
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "minimist": "^1.2.0",
     "terminal-kit": "^1.14.3",
     "underscore": "^1.8.3"
