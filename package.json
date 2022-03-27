@@ -5,7 +5,7 @@
   "main": "pumpBot.js",
   "dependencies": {
     "lodash": "^4.17.15",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.6",
     "terminal-kit": "^1.14.3",
     "underscore": "^1.8.3"
   },
